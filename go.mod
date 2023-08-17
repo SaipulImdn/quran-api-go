@@ -1,4 +1,4 @@
-module github.com/nyancodeid/quran-api-go
+module github.com/SaipulImdn/quran-api-go
 
 go 1.13
 
